@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Javier Rubio 👋</h1>
 </div>
-## Proyectos *bombitas*
+## Mis Proyectos y Conocimientos
 <table>
 <tr>
 <td width="50%">
