@@ -22,10 +22,10 @@
                <br>
 <h3 align="center">PROGRAMACIÓN EN C</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/47wLi9v.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="https://i.imgur.com/47wLi9v.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGOS-669ad3?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -38,15 +38,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">PC SPACE</h3>
+<h3 align="center">PROGRAMACIÓN EN JAVA</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.imgur.com/wKijyIm.jpg" width="400" alt="PC SPACE"></a>
-<a href="https://www.pcspace.es" target="_blank">
-<img src="https://img.shields.io/badge/P%C3%81GINA%20WEB-fc951e?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-<a href="https://www.instagram.com/pcspaceonline/" target="_blank">
-<img src="https://img.shields.io/badge/INSTAGRAM-fc951e?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/47wLi9v.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
 <p>PC Space es un proyecto dedicado a la reparación, instalación y soporte de dispositivos. Es un sitio para usuarios que no disponen de conocimiento sobre las nuevas tecnologías donde pueden resolver  sus consultas y problemas a un bajo coste, lowcost, sin precios abusivos. Es una forma de ayudar a los demás haciendo algo que me gusta, además de adquirir más experiencia en mi formación.</p>
 </div>                                                                                  
 </td>
