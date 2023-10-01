@@ -8,7 +8,8 @@
 <h3 align="center">PC SPACE</h3>
 <div align="center">
 <a href="" target="_blank"><img src="https://i.imgur.com/wKijyIm.jpg" width="400" alt="PC SPACE"></a>
-<p>PC Space es un proyecto creado exclusivamente por mir.</p>
+<p>PC Space es un proyecto dedicado a la reparación, instalación y soporte de dispositivos. Es un sitio para usuarios que no disponen de conocimiento sobre las nuevas tecnologías donde pueden resolver
+  sus consultas y problemas a un bajo coste, lowcost, sin precios abusivos. Es una forma de ayudar a los demás haciendo algo que me gusta, además de adquirir más experiencia en mi formación .</p>
 </div>
                                                                                       
 </td>
