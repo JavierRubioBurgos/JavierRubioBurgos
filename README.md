@@ -31,12 +31,8 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGOS-669ad3?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-</p>En este espacio podemos encontrar algunos de los proyectos que he ido realizando en C y sus derivados. Son trabajos de la universidad
-  
-  
-  
-  
-  .</p>
+</p>En este espacio podemos encontrar algunos de los proyectos que he ido realizando en C y sus versiones. Son trabajos de la universidad. ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍ 
+  </p>
 </div>                                                             
 </table>                                                                                 
 </div>
