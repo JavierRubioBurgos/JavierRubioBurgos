@@ -31,7 +31,12 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGOS-669ad3?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>En este espacio podemos encontrar algunos de los proyectos que he ido realizando en C y sus derivados. Son trabajos de la universidad
+  
+  
+  
+  
+  .</p>
 </div>                                                             
 </table>                                                                                 
 </div>
