@@ -40,7 +40,7 @@
 <td width="50%">
 <h3 align="center">PROGRAMACIÓN EN JAVA</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/47wLi9v.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="https://i.imgur.com/g7AI6eY.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>PC Space es un proyecto dedicado a la reparación, instalación y soporte de dispositivos. Es un sitio para usuarios que no disponen de conocimiento sobre las nuevas tecnologías donde pueden resolver  sus consultas y problemas a un bajo coste, lowcost, sin precios abusivos. Es una forma de ayudar a los demás haciendo algo que me gusta, además de adquirir más experiencia en mi formación.</p>
 </div>                                                                                  
