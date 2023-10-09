@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGOS-dc4e3a?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>En este apartado encontramos algunos proyectos de la universidad realizados con Bluej y Eclipse. Con java he aprendido más la programación orientada a objetos y estructuras y algoritmos de datos. Aprendí el coste asíntótico temporal de los algoritmos, forzando a utilizar las estructuras más eficientes para cada caso.  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍   </p> ‍
+<p>En este apartado encontramos algunos proyectos de la universidad realizados con Bluej y Eclipse. Con java he aprendido más la programación orientada a objetos y estructuras y algoritmos de datos. Aprendí el coste asíntótico temporal de los algoritmos, forzando a utilizar las estructuras más eficientes para cada caso.</p> ‍
 </div>                                                                                  
 </td>
   
@@ -56,14 +56,14 @@
                <br>
 <h3 align="center">WIRESHARK & CISCO PACKET TRACER</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/47wLi9v.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank"><img src="https://i.imgur.com/w4vu3vG.jpg" width="400" alt="WireShark Cisco Packet Tracer"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGOS-669ad3?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Aquí podemos encontrar dos prácticas que realicé para la universidad, una trabajando en Cisco Packet Tracer y la otra en WireShark que me ayudó para aumentar mis conocimiento sobre Redes de Computadores. Por lo tanto, dispongo de familiarización con estos dos softwares nombrados anteriormente. ‍  ‍  ‍  ‍  ‍ ‍  ‍  ‍  ‍  ‍ ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍   </p> ‍
+<p>Aquí podemos encontrar dos prácticas que realicé para la universidad, una trabajando en Cisco Packet Tracer y la otra en WireShark que me ayudaron para aumentar mis conocimiento sobre Redes de Computadores y sus protocolos. Por lo tanto, dispongo de familiarización con estos dos softwares nombrados anteriormente. </p> ‍
 </div>                                                             
 </table>                                                                                 
 </div>
