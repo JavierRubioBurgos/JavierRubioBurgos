@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGOS-dc4e3a?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>En este espacio podemos encontrar algunos de los proyectos que he ido realizando en C y sus versiones. C es mi lenguaje nativo, con el que empecé a aprender los conceptos básicos de programación, aún así, aquí podemos encontrar prácticas de la universidad con algoritmos muy interesantes. Es sobre todo una programación enfocada a la programación imperativa. ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍   </p> ‍
+<p>En este apartado encontramos algunos proyectos de la universidad realizados con Bluej y Eclipse. Con java he aprendido más la programación orientada a objetos y estructuras y algoritmos de datos. Aprendí el coste asíntótico temporal de los algoritmos, forzando a utilizar las estructuras más eficientes para cada caso.  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍   </p> ‍
 </div>                                                                                  
 </td>
   
