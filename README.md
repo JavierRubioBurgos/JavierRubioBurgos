@@ -40,7 +40,8 @@
 <td width="50%">
 <h3 align="center">PROGRAMACIÓN EN JAVA</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.imgur.com/g7AI6eY.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="" target="_blank">
+<img src="https://i.imgur.com/g7AI6eY.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="" target="_blank">
@@ -53,7 +54,7 @@
   
 <td width="50%">
                <br>
-<h3 align="center">PROGRAMACIÓN EN C</h3>
+<h3 align="center">WIRESHARK & CISCO PACKET TRACER</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/47wLi9v.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
@@ -62,7 +63,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGOS-669ad3?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>En este espacio podemos encontrar algunos de los proyectos que he ido realizando en C y sus versiones. C es mi lenguaje nativo, con el que empecé a aprender los conceptos básicos de programación, aún así, aquí podemos encontrar prácticas de la universidad con algoritmos muy interesantes. Es sobre todo una programación enfocada a la programación imperativa. ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍   </p> ‍
+<p>Aquí podemos encontrar dos prácticas que realicé para la universidad, una trabajando en Cisco Packet Tracer y la otra en WireShark que me ayudó para aumentar mis conocimiento sobre Redes de Computadores. Por lo tanto, dispongo de familiarización con estos dos softwares nombrados anteriormente. ‍  ‍  ‍  ‍  ‍ ‍  ‍  ‍  ‍  ‍ ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍  ‍   </p> ‍
 </div>                                                             
 </table>                                                                                 
 </div>
