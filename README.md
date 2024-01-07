@@ -56,10 +56,10 @@
                <br>
 <h3 align="center">WIRESHARK & CISCO PACKET TRACER</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://i.imgur.com/w4vu3vG.jpg" width="400" alt="WireShark Cisco Packet Tracer"></a>
+<a href="https://github.com/JavierRubioBurgos/Wireshark-Cisco" target="_blank"><img src="https://i.imgur.com/w4vu3vG.jpg" width="400" alt="WireShark Cisco Packet Tracer"></a>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/JavierRubioBurgos/Wireshark-Cisco" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGOS-3cadf1?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
