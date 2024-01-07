@@ -60,7 +60,7 @@
 <br>
 <p>
 <a href="https://github.com/JavierRubioBurgos/Wireshark-Cisco" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGOS-3cadf1?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/TRABAJOS-3cadf1?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 <p>Aquí podemos encontrar dos prácticas que realicé para la universidad, una trabajando en Cisco Packet Tracer y la otra en WireShark que me ayudaron para aumentar mis conocimiento sobre Redes de Computadores y sus protocolos. Por lo tanto, dispongo de familiarización con estos dos softwares nombrados anteriormente. </p> ‍
