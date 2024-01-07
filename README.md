@@ -22,10 +22,10 @@
                <br>
 <h3 align="center">PROGRAMACIÓN EN C</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://i.imgur.com/47wLi9v.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/JavierRubioBurgos/ProgramacionEnC" target="_blank"><img src="https://i.imgur.com/47wLi9v.jpg" width="400" alt="Programación en C"></a>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/JavierRubioBurgos/ProgramacionEnC" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGOS-669ad3?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -41,7 +41,7 @@
 <h3 align="center">PROGRAMACIÓN EN JAVA</h3>
 <div align="center">
 <a href="" target="_blank">
-<img src="https://i.imgur.com/g7AI6eY.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<img src="https://i.imgur.com/g7AI6eY.jpg" width="400" alt="Programación en Java"></a>
 <br>
 <p>
 <a href="" target="_blank">
