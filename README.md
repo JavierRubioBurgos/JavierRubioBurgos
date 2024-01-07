@@ -7,7 +7,7 @@
 <td width="50%">
 <h3 align="center">PC SPACE</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://i.imgur.com/wKijyIm.jpg" width="400" alt="PC SPACE"></a>
+<a  target="_blank"><img src="https://i.imgur.com/wKijyIm.jpg" width="400" alt="PC SPACE"></a>
 <a href="https://www.pcspace.es" target="_blank">
 <img src="https://img.shields.io/badge/P%C3%81GINA%20WEB-fc951e?style=for-the-badge&logo=html5&logoColor=white">
 </a>
