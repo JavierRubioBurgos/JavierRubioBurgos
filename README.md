@@ -3,7 +3,7 @@
 </div>
  Lenguajes:
  <br>✅ C#</br>
- ✅ Java
+ <br>✅ Java</br>
  ✅ Python 
 <table>
 <tr>
