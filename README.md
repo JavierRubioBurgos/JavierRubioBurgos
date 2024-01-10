@@ -2,9 +2,9 @@
 <h1 align="center">Hola, soy Javier Rubio 👋</h1>
 </div>
  Lenguajes:
- <br>✅ C#</br>
- <br>✅ Java</br>
- ✅ Python 
+ <br>✅ C#
+ ✅ Java
+ ✅ Python </br>
 <table>
 <tr>
 <td width="50%">
