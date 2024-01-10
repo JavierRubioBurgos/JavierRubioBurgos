@@ -72,7 +72,7 @@
 <h3 align="center">CERTIFICADOS GOOGLE</h3>
 <div align="center">
 <a href="https://github.com/JavierRubioBurgos/CertificadosGoogle" target="_blank">
-<img src="https://i.imgur.com/wcrbrw1.png" width="400" alt="CertificadosGoogle"></a>
+<img src="https://i.imgur.com/KtMWX05.jpg" width="400" alt="CertificadosGoogle"></a>
 <br>
 <p>
 <a href="https://github.com/JavierRubioBurgos/CertificadosGoogle" target="_blank">
