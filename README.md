@@ -56,7 +56,8 @@
                <br>
 <h3 align="center">WIRESHARK & CISCO PACKET TRACER</h3>
 <div align="center">                                       
-<a href="https://github.com/JavierRubioBurgos/Wireshark-Cisco" target="_blank"><img src="https://i.imgur.com/w4vu3vG.jpg" width="400" alt="WireShark Cisco Packet Tracer"></a>
+<a href="https://github.com/JavierRubioBurgos/Wireshark-Cisco" target="_blank">
+<img src="https://i.imgur.com/w4vu3vG.jpg" width="400" alt="WireShark Cisco Packet Tracer"></a>
 <br>
 <p>
 <a href="https://github.com/JavierRubioBurgos/Wireshark-Cisco" target="_blank">
@@ -88,7 +89,7 @@
                <br>
 <h3 align="center"></h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="" width="400" alt=""></a>
+<a href="" target="_blank"><img src="https://i.imgur.com/BQ7Nl4x.jpg" width="400" alt=""></a>
 <br>
 <p>
 </a>
