@@ -4,7 +4,7 @@
  Lenguajes:
  <br>✅ C#</br>
  <br>✅ Java</br>
- <br>✅ Python</br> 
+ ✅ Python 
 <table>
 <tr>
 <td width="50%">
