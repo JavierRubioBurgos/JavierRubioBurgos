@@ -65,6 +65,37 @@
 </p>
 <p>Aquí podemos encontrar dos prácticas que realicé para la universidad, una trabajando en Cisco Packet Tracer y la otra en WireShark que me ayudaron para aumentar mis conocimiento sobre Redes de Computadores y sus protocolos. Por lo tanto, dispongo de familiarización con estos dos softwares nombrados anteriormente. </p> ‍
 </div>                                                             
-</table>                                                                                 
+</table>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">PROGRAMACIÓN EN JAVA</h3>
+<div align="center">
+<a href="https://github.com/JavierRubioBurgos/ProgramacionEnJava" target="_blank">
+<img src="https://i.imgur.com/g7AI6eY.jpg" width="400" alt="Programación en Java"></a>
+<br>
+<p>
+<a href="https://github.com/JavierRubioBurgos/ProgramacionEnJava" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGOS-dc4e3a?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>En este apartado encontramos algunos proyectos de la universidad realizados con Bluej y Eclipse. Con java he aprendido más la programación orientada a objetos y estructuras y algoritmos de datos. Aprendí el coste asíntótico temporal de los algoritmos, forzando a utilizar las estructuras más eficientes para cada caso.</p> ‍
+</div>                                                                                  
+</td>
+  
+<td width="50%">
+               <br>
+<h3 align="center"></h3>
+<div align="center">                                       
+<a href="" target="_blank"><img src="" width="400" alt=""></a>
+<br>
+<p>
+<a href="" target="_blank">
+<img src="">
+</a>
+</p>
+<p> </p> ‍
+</div>                                                             
+</table>  
 </div>
 <br>
