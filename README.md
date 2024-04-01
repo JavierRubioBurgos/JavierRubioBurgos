@@ -19,7 +19,7 @@
   
 <td width="50%">
                <br>
-<h3 align="center">PROGRAMACIÓN EN C</h3>
+<h3 align="center">PROGRAMACIÓN EN C, C#, C++</h3>
 <div align="center">                                       
 <a href="https://github.com/JavierRubioBurgos/ProgramacionEnC" target="_blank"><img src="https://i.imgur.com/47wLi9v.jpg" width="400" alt="Programación en C"></a>
 <br>
