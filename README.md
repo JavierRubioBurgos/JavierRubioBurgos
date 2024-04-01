@@ -89,7 +89,7 @@
 <h3 align="center">MÁS LENGUAJES QUE UTILIZO</h3>
 <div align="center">
 <a href="" target="_blank">
-<img src="https://imgur.com/5vngg7Z" width="400" alt="Python"></a>
+<img src="https://i.imgur.com/5vngg7Z.jpg" width="400" alt="Python"></a>
 <br>
 <p>
 </a>
