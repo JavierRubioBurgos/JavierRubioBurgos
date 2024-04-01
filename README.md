@@ -92,6 +92,8 @@
 <img src="https://i.imgur.com/5vngg7Z.jpg" width="400" alt="Python"></a>
 <br>
 <p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo=python&logoColor=FFFF00">
 </a>
 </p>
 <p> </p> ‍
