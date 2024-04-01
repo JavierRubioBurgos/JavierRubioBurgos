@@ -18,7 +18,6 @@
 </td>
   
 <td width="50%">
-               <br>
 <h3 align="center">PROGRAMACIÓN EN C, C#, C++</h3>
 <div align="center">                                       
 <a href="https://github.com/JavierRubioBurgos/ProgramacionEnC" target="_blank"><img src="https://i.imgur.com/47wLi9v.jpg" width="400" alt="Programación en C"></a>
@@ -31,7 +30,6 @@
 <p>En este espacio podemos encontrar algunos de los proyectos que he ido realizando en C y sus versiones. C es mi lenguaje nativo, con el que empecé a aprender los conceptos básicos de programación, aún así, aquí podemos encontrar prácticas de la universidad con algoritmos muy interesantes. Es sobre todo una programación enfocada a la programación imperativa.</p> ‍
 </div>                                                             
 </table>                                                                                 
-</div>
 
 
 <table>
