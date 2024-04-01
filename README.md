@@ -86,9 +86,9 @@
   
 <td width="50%">
                <br>
-<h3 align="center"></h3>
+<h3 align="center">MÁS LENGUAJES QUE UTILIZO</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://i.imgur.com/BQ7Nl4x.jpg" width="400" alt=""></a>
+<img src="https://imgur.com/5vngg7Z" width="400" alt="CertificadosGoogle">
 <br>
 <p>
 </a>
