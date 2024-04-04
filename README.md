@@ -1,11 +1,3 @@
-<style>
-  @media screen and (max-width: 600px) {
-    td {
-      display: block;
-    }
-  }
-</style>
-
 
 <div align="center">
 <h1 align="center">Hola, soy Javier Rubio 👋</h1>
